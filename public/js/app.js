@@ -1,0 +1,1 @@
+alert('This is an alert to let you know that the script is working');
